@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/usr/bin/bash
 
 unzip -o ./util/marp.zip &&
 ./marp --template bespoke pitch.md &&
