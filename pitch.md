@@ -5,28 +5,44 @@ paginate: true
 backgroundColor: #fff
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+# **App Name**
 
-# **Marp**
+Some short description
 
-Markdown Presentation Ecosystem
-
-https://marp.app/
+https://github.com/MeetMySport
 
 ---
 
-# How to write slides
-
-Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
-
-```markdown
-# Slide 1
-
-foobar
+# Clients - who they are?
 
 ---
 
-# Slide 2
+# What we can do for our clients?
 
-foobar
-```
+---
+
+# How they got our product?
+
+---
+
+# How do we earn on the product?
+
+---
+
+# How our product can be built?
+
+---
+
+# How we can scale our business?
+
+---
+
+<style scoped>
+section {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+</style>
+
+# Thanks for your attention 😉

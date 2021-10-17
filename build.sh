@@ -2,5 +2,5 @@
 
 unzip -o ./util/marp.zip &&
 ./marp --template bespoke pitch.md &&
-mkdir public &&
+mkdir -p public &&
 mv pitch.html ./public/index.html
